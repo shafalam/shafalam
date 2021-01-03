@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am Shafiul Alam. I am a full-stack web developer. 
+My stack is: Java + Spring Boot, TypeScript + React
+
+- 🌱 I’m currently learning postgresql
+- I have interest in algorithic problem solving
 <!--
 **shafalam/shafalam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
